@@ -1,0 +1,210 @@
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\appsettings.json
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\NotificationApi.exe
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\NotificationApi.deps.json
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\NotificationApi.runtimeconfig.json
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\NotificationApi.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\NotificationApi.pdb
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\Humanizer.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.csproj.AssemblyReference.cache
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.AssemblyInfoInputs.cache
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.AssemblyInfo.cs
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.csproj.CoreCompileInputs.cache
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\obj\Debug\net6.0\staticwebassets\msbuild.NotificationApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\obj\Debug\net6.0\staticwebassets\msbuild.build.NotificationApi.props
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NotificationApi.props
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NotificationApi.props
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\obj\Debug\net6.0\scopedcss\bundle\NotificationApi.styles.css
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.csproj.CopyComplete
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\obj\Debug\net6.0\refint\NotificationApi.dll
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.pdb
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.genruntimeconfig.cache
+D:\Asp NET core 6\Symbios\NotificationApi\NotificationApi\obj\Debug\net6.0\ref\NotificationApi.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\appsettings.json
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\NotificationApi.exe
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\NotificationApi.deps.json
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\NotificationApi.runtimeconfig.json
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\NotificationApi.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\NotificationApi.pdb
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Humanizer.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.csproj.AssemblyReference.cache
+D:\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.AssemblyInfoInputs.cache
+D:\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.AssemblyInfo.cs
+D:\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.csproj.CoreCompileInputs.cache
+D:\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.sourcelink.json
+D:\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\staticwebassets\msbuild.NotificationApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\staticwebassets\msbuild.build.NotificationApi.props
+D:\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NotificationApi.props
+D:\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NotificationApi.props
+D:\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\scopedcss\bundle\NotificationApi.styles.css
+D:\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.csproj.CopyComplete
+D:\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.dll
+D:\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\refint\NotificationApi.dll
+D:\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.pdb
+D:\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.genruntimeconfig.cache
+D:\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\ref\NotificationApi.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\appsettings.json
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\NotificationApi.exe
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\NotificationApi.deps.json
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\NotificationApi.runtimeconfig.json
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\NotificationApi.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\NotificationApi.pdb
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Humanizer.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.csproj.AssemblyReference.cache
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.AssemblyInfoInputs.cache
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.AssemblyInfo.cs
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.csproj.CoreCompileInputs.cache
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.sourcelink.json
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\staticwebassets\msbuild.NotificationApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\staticwebassets\msbuild.build.NotificationApi.props
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NotificationApi.props
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NotificationApi.props
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\scopedcss\bundle\NotificationApi.styles.css
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.csproj.CopyComplete
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\refint\NotificationApi.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.pdb
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\NotificationApi.genruntimeconfig.cache
+D:\Symbios mobileapp\Apple2024\NotificationApi\NotificationApi\obj\Debug\net6.0\ref\NotificationApi.dll

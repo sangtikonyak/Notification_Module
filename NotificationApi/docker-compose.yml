@@ -1,0 +1,32 @@
+version: '3.4'
+
+networks:
+  notification-networks:
+
+services:
+  notification-db:
+    container_name: notification-db
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    ports:
+     - 8002:1433
+    environment:
+     - ACCEPT_EULA=Y
+     - MSSQL_SA_PASSWORD=Root123#s
+    networks:
+     - notification-networks
+
+  notificationapi:
+    container_name: notification-container
+    image: ${DOCKER_REGISTRY-}notificationapi
+    build:
+      context: .
+      dockerfile: NotificationApi/Dockerfile
+    ports:
+     - 8080:80 
+   
+    networks:
+     - notification-networks
+    depends_on: 
+     - notification-db
+
+

@@ -1,0 +1,56 @@
+D:\Apple2024\NotificationApi\bin\Debug\NotificationApi.deps.json
+D:\Apple2024\NotificationApi\bin\Debug\NotificationApi.runtimeconfig.json
+D:\Apple2024\NotificationApi\bin\Debug\appsettings.Development.json
+D:\Apple2024\NotificationApi\bin\Debug\appsettings.json
+D:\Apple2024\NotificationApi\bin\Debug\NotificationApi.exe
+D:\Apple2024\NotificationApi\bin\Debug\NotificationApi.dll
+D:\Apple2024\NotificationApi\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Apple2024\NotificationApi\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Apple2024\NotificationApi\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Apple2024\NotificationApi\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Apple2024\NotificationApi\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Apple2024\NotificationApi\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+D:\Apple2024\NotificationApi\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Apple2024\NotificationApi\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Apple2024\NotificationApi\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Apple2024\NotificationApi\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Apple2024\NotificationApi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Apple2024\NotificationApi\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Apple2024\NotificationApi\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Apple2024\NotificationApi\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Apple2024\NotificationApi\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Apple2024\NotificationApi\bin\Debug\Microsoft.OpenApi.dll
+D:\Apple2024\NotificationApi\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Apple2024\NotificationApi\bin\Debug\Microsoft.Identity.Client.dll
+D:\Apple2024\NotificationApi\bin\Debug\NotificationApi.pdb
+D:\Apple2024\NotificationApi\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Apple2024\NotificationApi\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Apple2024\NotificationApi\obj\Debug\docker-compose.dcproj.CopyComplete
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\appsettings.Development.json
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\NotificationApi.deps.json
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\NotificationApi.runtimeconfig.json
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\appsettings.json
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\NotificationApi.exe
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\NotificationApi.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\Microsoft.OpenApi.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\Microsoft.Identity.Client.dll
+D:\Symbios mobileapp\Apple2024\NotificationApi\bin\Debug\NotificationApi.pdb
+D:\Symbios mobileapp\Apple2024\NotificationApi\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Symbios mobileapp\Apple2024\NotificationApi\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Symbios mobileapp\Apple2024\NotificationApi\obj\Debug\docker-compose.dcproj.CopyComplete
